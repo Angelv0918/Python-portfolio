@@ -794,6 +794,9 @@ pre code {
   clear: both;
 }
 @media (min-width: 768px) {
+  .navbar-nav > li > a{
+    color: white;
+  }
   .container {
     width: 750px;
   }
